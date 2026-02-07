@@ -1,0 +1,160 @@
+{
+  "book_id": "indigenous-resurgence-lyric-poetry-individual-collective",
+  "title": "The Taste of River Clay",
+  "tagline": "A woman must choose between the world of surfaces and the world of depths to save the land that remembers her name.",
+  "target_words": 70000,
+  "actual_words": 69579,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Indigenous Resurgence vs. Colonial Erasure",
+    "The Lyricism of Embodied Memory",
+    "The Individual's Duty to the Collective",
+    "Land as Archive and Ancestor"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Last Word",
+      "words": 2900
+    },
+    {
+      "ch": 2,
+      "title": "The Map in the Shoulders",
+      "words": 2900
+    },
+    {
+      "ch": 3,
+      "title": "The Beige Brick Clinic",
+      "words": 2900
+    },
+    {
+      "ch": 4,
+      "title": "The Language of Tracks",
+      "words": 2900
+    },
+    {
+      "ch": 5,
+      "title": "Surface People",
+      "words": 2900
+    },
+    {
+      "ch": 6,
+      "title": "The Hole They Need",
+      "words": 2900
+    },
+    {
+      "ch": 7,
+      "title": "Brenda Miller's World",
+      "words": 2900
+    },
+    {
+      "ch": 8,
+      "title": "Kâ-ohbi",
+      "words": 2900
+    },
+    {
+      "ch": 9,
+      "title": "The Unsellable Swamp",
+      "words": 2900
+    },
+    {
+      "ch": 10,
+      "title": "Petition Unsigned",
+      "words": 2900
+    },
+    {
+      "ch": 11,
+      "title": "A Different Kind of Text",
+      "words": 2900
+    },
+    {
+      "ch": 12,
+      "title": "The Stubborn Windows",
+      "words": 2900
+    },
+    {
+      "ch": 13,
+      "title": "Expropriation Proceedings",
+      "words": 2900
+    },
+    {
+      "ch": 14,
+      "title": "Listening with the Skin",
+      "words": 2900
+    },
+    {
+      "ch": 15,
+      "title": "The Muscle of the River",
+      "words": 2900
+    },
+    {
+      "ch": 16,
+      "title": "The Polished Stone of Dislike",
+      "words": 2900
+    },
+    {
+      "ch": 17,
+      "title": "Labrador, Sweetgrass, Cedar",
+      "words": 2900
+    },
+    {
+      "ch": 18,
+      "title": "The Tomb of Quiet",
+      "words": 2900
+    },
+    {
+      "ch": 19,
+      "title": "A Fossil Against My Teeth",
+      "words": 2900
+    },
+    {
+      "ch": 20,
+      "title": "The Buffer",
+      "words": 2900
+    },
+    {
+      "ch": 21,
+      "title": "What the Land Had to Say",
+      "words": 2900
+    },
+    {
+      "ch": 22,
+      "title": "The World, Impatient",
+      "words": 2900
+    },
+    {
+      "ch": 23,
+      "title": "Deleting a Word",
+      "words": 2900
+    },
+    {
+      "ch": 24,
+      "title": "Remember",
+      "words": 2879
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a poem from the perspective of the river, addressing Keeley. What does it remember that she has forgotten?",
+      "Compose a letter from Keeley's mother, Brenda Miller, justifying her choice to assimilate, using the language of 'surfaces' (practicality, security, progress).",
+      "Create a short story about a day in the life of Aunt Doreen twenty years prior, showing how she learned to 'read the land.'",
+      "Write the transcript of a Band Council meeting where the dam proposal is debated, capturing the tension between economic need and cultural survival."
+    ],
+    "technical": [
+      "Build an interactive map of Parcel 0472-B, layering geological survey data with Indigenous place names, plant lore, and animal migration paths mentioned in the text.",
+      "Develop a 'Language Reclamation' text tool that visually shows the erosion of an Indigenous sentence as colonial words replace original terms, mirroring the novel's theme of 'deleting words.'"
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Joy Harjo",
+      "Robin Wall Kimmerer",
+      "Leslie Marmon Silko",
+      "Thomas King"
+    ]
+  },
+  "cover_prompt": "A young indigenous woman, her hands caked with dark, wet river clay, presses her palms against the bark of an ancient, wise tree, feeling the land's memory pulse upwards, [Detailed Scene & Context: set at the twilight confluence of a slow-moving river and a dense, whispering forest, where ghostly, semi-transparent ancestral figures emerge from the mist and water, and geometric patterns of colonial survey maps dissolve into roots and mycelial networks], [Artistic Style & Medium: in the atmospheric, textured, and spiritually resonant style of Kent Monkman's narrative paintings and the lyrical earth-toned poetry of Anne Brigman's photographic allegories, rendered in textured impasto oil and natural pigment], [Composition & Camera: book cover framing, a centered and intimate composition with a slight low-angle looking up at the woman, creating a sense of reverence and scale, with the river leading the eye into deep, layered background], [Lighting & Color Palette: dramatic chiaroscuro lighting from a single, low sunset breaking through clouds, casting long shadows and glowing edges, with a rich, deep color palette of clay reds, riverine blues, forest greens, and twilight purples, all muted and grounded in earth tones], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
