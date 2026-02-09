@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The last word in the old language was for the taste of river clay. I know this because I swallowed it. My grandmother pressed the wet earth to my tongue when I was seven, her thumb a fossil against my teeth, and said, “Remember.” Now, the petition to dam the river sits unsigned on my desk, and my mouth is full of forgetting.
@@ -148,6 +150,8 @@ I took the folded surveyor’s map from my pocket. In the fading light, I couldn
 I left the map there, a white offering to the damp, and turned back towards the truck, towards the lights of my aunt’s house, towards the letter on the table. The sentence was not finished. I was just the next word.
 
 ---
+
+# Chapter 2
 
 ## CHAPTER 2
 
@@ -300,6 +304,8 @@ I knew where I had to go next. Not to the Band office. Not to a lawyer.
 I had to go deeper into the sentence. I had to find the other words.
 
 ---
+
+# Chapter 3
 
 ## CHAPTER 3
 
